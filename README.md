@@ -57,6 +57,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - This landing page was built as part of my **Web Development Internship** at **Octanet Services Private Limited** (September 1 to October 31, 2024).
 - The design and functionality were inspired by modern trends in web design to create a professional and user-friendly experience.
 
----
-
-Feel free to update any specific details or add the project-specific screenshot links!
