@@ -16,7 +16,7 @@ This is a **Landing Page** designed and developed as part of my **Web Developmen
   
 ## Demo
 
-[View the live demo]((https://www.linkedin.com/posts/indrakumark_webdevelopment-landingpage-frontenddevelopment-activity-7238185760728760323-8Egw?utm_source=share&utm_medium=member_desktop))
+[View the live demo](https://www.linkedin.com/posts/indrakumark_webdevelopment-landingpage-frontenddevelopment-activity-7238185760728760323-8Egw?utm_source=share&utm_medium=member_desktop)
 
 ## Technologies Used
 
